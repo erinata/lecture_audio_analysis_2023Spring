@@ -1,0 +1,6 @@
+genres
+dataset.csv
+__pycache__
+*dataset
+temp_plots
+*.pickle
